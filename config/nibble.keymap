@@ -18,10 +18,10 @@
 		bt_clr_hold : bt_clr_hold {
 			compatible = "zmk,behavior-hold-tap";
 			label = "BT_CLR_HOLD";
-			bindings = <&bt, &trans>;
+			bindings = <&bt, &none>;
 			layer = <1>;
-		}
-	}
+		};
+	};
 	keymap {
 		compatible = "zmk,keymap";
 
