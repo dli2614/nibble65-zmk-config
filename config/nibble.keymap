@@ -58,8 +58,6 @@
 		lock_layer {
 			label = "Lock";
 			
-			sensor-bindings = <&inc_dec_kp &none &none>;
-			
 			bindings = <
             			&none   &none    &none   &none    &none   &none    &none   &none    &none   &none    &none    &none   &none   &none  &none
 			&none   &none    &none   &none    &none     &none   &none    &none   &none    &none  &none   &none    &none   &none    &none   &none
@@ -72,8 +70,6 @@
 		
 		fn_lock_layer {
 			label = "Fn_lock";
-			
-			sensor-bindings = <&inc_dec_kp &none &none>;
 			
 			bindings = <
             			&none   &none    &none   &none    &none   &none    &none   &none    &none   &none    &none    &none   &none   &none  &none
