@@ -77,7 +77,7 @@
 			
 			bindings = <
             			&none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none
-	    		&tog 1   &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none
+	    		&to 1   &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none
     			&none   &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none
     	    			&none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none
 	    			&none    &none    &none    &none    					&trans    &none    &none    &none    &none    &none
