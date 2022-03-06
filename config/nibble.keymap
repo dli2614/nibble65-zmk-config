@@ -54,5 +54,18 @@
 &trans  &trans    &trans    &trans                        &trans                        &trans  &trans    &trans    &kp C_PREV          &kp C_PP &kp C_NEXT
 			>;
 		};
+		
+		lock_layer {
+			label = "Lock";
+			
+			bindings = <
+            			&none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none
+	    			&none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none
+    			&none   &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none
+    	    			&none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none    &none
+	    			&none    &none    &none    &none    					&none    &none    &none    &none    &none    &none
+			>;
+		
+		};
 	};
 };
