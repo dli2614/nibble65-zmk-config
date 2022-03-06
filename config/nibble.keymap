@@ -17,8 +17,8 @@
 	behaviors {
 		bt_clr_hold: bt_clr_hold {
 			compatible = "zmk,behavior-hold-tap";
-			label = "BT__CLR_HOLD";
-			#binding-cells = <1>;
+			label = "BT_CLR_HOLD";
+			#binding-cells = <2>;
 			bindings = <&bt>, <&none>;
     };
 	pht: positional_hold_tap {
